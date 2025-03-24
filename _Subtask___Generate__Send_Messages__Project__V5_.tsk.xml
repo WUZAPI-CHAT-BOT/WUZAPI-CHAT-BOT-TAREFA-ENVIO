@@ -2,13 +2,14 @@
 	<Project sr="proj0" ve="2">
 		<cdate>1742841138479</cdate>
 		<name>Teste</name>
-		<tids>303</tids>
+		<tids>383</tids>
 	</Project>
-	<Task sr="task303">
+	<Task sr="task383">
 		<cdate>1742841144312</cdate>
-		<edate>1742841152985</edate>
-		<id>303</id>
+		<edate>1742842028695</edate>
+		<id>383</id>
 		<nme>Fla</nme>
+		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>548</code>
 			<Str sr="arg0" ve="3">Ola mundo</Str>
@@ -28,5 +29,18 @@
 			<Str sr="arg8" ve="3"/>
 			<Int sr="arg9" val="1"/>
 		</Action>
+		<ProfileVariable sr="pv0">
+			<clearout>false</clearout>
+			<exportval></exportval>
+			<immutable>false</immutable>
+			<pvci>true</pvci>
+			<pvd></pvd>
+			<pvdn></pvdn>
+			<pvid>383</pvid>
+			<pvit>t</pvit>
+			<pvn>%ola</pvn>
+			<pvt>t</pvt>
+			<strout>true</strout>
+		</ProfileVariable>
 	</Task>
 </TaskerData>
